@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Marianihill
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science Full Stack
-- 💞️ I’m looking to collaborate on Machine Learning and Deep Learning 
+- 👀 I’m an AI Engineer
+- 🌱 I’m an Data Science Full Stack Expect 
+- 💞️ I love working on AI,LLMs, chatbots and Agents 
 - 📫 How to reach me ...www.linkedin.com/in/marianihill-a-b45b55216
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
